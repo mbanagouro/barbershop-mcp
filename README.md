@@ -22,3 +22,8 @@ Este projeto foi criado para explorar na prática conceitos de **IA + MCP + ASP.
 - **Framework:** ASP.NET Core 9
 - **Protocolo:** Model Context Protocol (MCP)
 
+---
+
+### 🎥 Live Comunidade Coders
+
+- [Build #2 Criando um MCP Server em ASP .NET](https://www.youtube.com/live/L-wgYGBxNBk?si=27WOEGH6_k4Vpo__)
